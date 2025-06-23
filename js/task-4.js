@@ -17,5 +17,5 @@ form.addEventListener('submit', (e) => {
 
   console.log(submitValue);
 
-  form.reset;
+  form.reset();
 });
